@@ -1,7 +1,7 @@
 [
     {
         "role": "Android Devloper",
-        "skills": "Android,Java,Kotlin,SQL",
+        "skills": "Android,Java,Kotlin,SQL,Realm",
         "company": "Om Ak Solutions, 20 Panchkula",
         "duration": "March 2019",
         "current": true,
@@ -9,7 +9,7 @@
     },
     {
         "role": "Android Devloper",
-        "skills": "Android,Java,Kotlin,SQL",
+        "skills": "Android,Java",
         "company": "Promatics Technologies Pvt. Ltd, Ludhiana",
         "duration": "October 2018 - March 2019",
         "current": false,
