@@ -1,26 +1,34 @@
 [
     {
-        "role" : "Internship",
-        "skills" : "Android",
-        "company" : "Promatics Technologies Pvt. Ltd, Ludhiana",
-        "duration" : "October 2018",
-        "current" : true,
-        "description" : "I am currently at training and working for web designing and development on android."
+        "role": "Android Devloper",
+        "skills": "Android,Java,Kotlin,SQL",
+        "company": "Om Ak Solutions, 20 Panchkula",
+        "duration": "March 2019",
+        "current": true,
+        "description": "A Mobile Application Developer with 9 month of experience in Application development and maintenance, support and project  execution.Proficiency in design, development and troubleshooting for Mobile Application Development (Using via: Java, Android)."
     },
     {
-        "role" : "Internship",
-        "skills" : "Advanced Java",
-        "company" : "Naresh IT, Hydrabad",
-        "duration" : "January 2018 - June 2018",
-        "current" : true,
-        "description" : "I finished a 6 months internship on Advanced Java and created a project of online store."
+        "role": "Android Devloper",
+        "skills": "Android,Java,Kotlin,SQL",
+        "company": "Promatics Technologies Pvt. Ltd, Ludhiana",
+        "duration": "October 2018 - March 2019",
+        "current": false,
+        "description": "Handling various technical aspects like coding of modules using the given design specification, debugging and fixing the  bugs.Coordinating with team members for Application design, Integration and Application maintenance."
     },
     {
-        "role" : "Internship",
-        "skills" : "Core Java",
-        "company" : "Cetpa Infotech Pvt. Ltc",
-        "duration" : "June 2016 - July 2016",
-        "current" : false,
-        "description" : "I have completed 45 days of internship at this intstitute on Core Java and I developed a desktop applicaton for hotel management."
+        "role": "Internship",
+        "skills": "Advanced Java",
+        "company": "Naresh IT, Hydrabad",
+        "duration": "January 2018 - June 2018",
+        "current": false,
+        "description": "I finished a 6 months internship on Advanced Java and created a project of online store."
+    },
+    {
+        "role": "Internship",
+        "skills": "Core Java",
+        "company": "Cetpa Infotech Pvt. Ltc",
+        "duration": "June 2016 - July 2016",
+        "current": false,
+        "description": "I have completed 45 days of internship at this intstitute on Core Java and I developed a desktop applicaton for hotel management."
     }
 ]
