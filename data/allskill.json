@@ -1,0 +1,38 @@
+[
+    {
+        "skill" : "C/C++",
+        "percent" : 60
+    },
+    {
+        "skill" : "Java Core",
+        "percent" : 75
+    },
+    {
+        "skill" : "HTML",
+        "percent" : 50
+    },
+    {
+        "skill" : "CSS",
+        "percent" : 60
+    },
+    {
+        "skill" : "Javascript",
+        "percent" : 50
+    },
+    {
+        "skill" : "PHP",
+        "percent" : 70
+    },
+    {
+        "skill" : "SQL",
+        "percent" : 60
+    },
+    {
+        "skill" : "Auto CAD",
+        "percent" : 40
+    },
+    {
+        "skill" : "Android",
+        "percent" : 70
+    }
+]

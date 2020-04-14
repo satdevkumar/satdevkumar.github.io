@@ -1,0 +1,18 @@
+[
+    {
+        "title" : "Programming",
+        "percent" : 60
+    },
+    {
+        "title" : "Web Designing",
+        "percent" : 50
+    },
+    {
+        "title" : "Web Development",
+        "percent" : 60
+    },
+    {
+        "title" : "Microsoft Office",
+        "percent" : 70
+    }        
+]

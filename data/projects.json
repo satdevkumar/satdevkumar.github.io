@@ -1,0 +1,22 @@
+[
+	{
+		"title" : "Online Store",
+		"skills" : "Core Java and Advanced Java (Framework)",
+		"platform" : "",
+		"duration" : "January 2018 - June 2018",
+		"running" : false,
+		"link" : "",
+		"role" : "Front End and Back End Developer",
+		"description" : "A online store to purchache household things."
+	},
+	{
+		"title" : "Hotel Management",
+		"skills" : "Core Java",
+		"platform" : "",
+		"duration" : "June 2016 - July 2017",
+		"running" : false,
+		"link" : "",
+		"role" : "Front End and Back End Developer",
+		"description" : "A desktop application for hotel reception."
+	}
+]

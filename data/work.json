@@ -1,0 +1,26 @@
+[
+    {
+        "role" : "Internship",
+        "skills" : "Android",
+        "company" : "Promatics Technologies Pvt. Ltd, Ludhiana",
+        "duration" : "October 2018",
+        "current" : true,
+        "description" : "I am currently at training and working for web designing and development on android."
+    },
+    {
+        "role" : "Internship",
+        "skills" : "Advanced Java",
+        "company" : "Naresh IT, Hydrabad",
+        "duration" : "January 2018 - June 2018",
+        "current" : true,
+        "description" : "I finished a 6 months internship on Advanced Java and created a project of online store."
+    },
+    {
+        "role" : "Internship",
+        "skills" : "Core Java",
+        "company" : "Cetpa Infotech Pvt. Ltc",
+        "duration" : "June 2016 - July 2016",
+        "current" : false,
+        "description" : "I have completed 45 days of internship at this intstitute on Core Java and I developed a desktop applicaton for hotel management."
+    }
+]
