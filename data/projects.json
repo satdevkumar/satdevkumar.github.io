@@ -1,33 +1,53 @@
 [
 	{
-		"title": "IJARIIT JOURNAL",
-		"skills": "Android (java),Retrofit,Firebase",
+		"title": "EKOM Cab",
+		"skills": "Android (java),Retrofit Api's,Realm,Firebase,Fabric",
 		"platform": "Android",
-		"duration": "March 2019 - June 2019",
+		"duration": "February 2020",
 		"running": true,
-		"link": "https://play.google.com/store/apps/details?id=com.omak.ijariit",
+		"link": "",
 		"role": "Android Developer",
-		"description": " This app is basically for research papar publication.  IJARIIT is a international journal so here we publish paper into IJARIIT journal"
+		"description": "This app is a taxi app."
+	},
+	{
+		"title": "GrowYu",
+		"skills": "Android (java),Retrofit Api's,Realm,Firebase,Fabric",
+		"platform": "Android",
+		"duration": "October 2019 - February 2020",
+		"running": false,
+		"link": "https://www.growyu.com/app/growyucrm-app.apk",
+		"role": "Android Developer",
+		"description": "This app  simple solution for managing your calls, leads and sales at one place. Never Lose a Lead Again."
 	},
 	{
 		"title": "Research Experts ",
-		"skills": "Android (java),Retrofit,Realm,Firebase",
+		"skills": "Android (java),Retrofit Api's,Realm,Firebase",
 		"platform": "Android",
 		"duration": "June 2019 -October 2019",
-		"running": true,
+		"running": false,
 		"link": "https://play.google.com/store/apps/details?id=com.omak.researchexperts",
 		"role": "Android Developer",
 		"description": "This app is basically for researchers .we are providing plagiarism check and plagiarism removal services."
 	},
 	{
-		"title": "GrowYu",
-		"skills": "Android (java),Retrofit,Realm,Firebase,Fabric",
+		"title": "IJARIIT JOURNAL",
+		"skills": "Android (java),Retrofit Api's,Firebase",
 		"platform": "Android",
-		"duration": "October 2019 - February 2020",
-		"running": true,
-		"link": "https://www.growyu.com/app/growyucrm-app.apk",
+		"duration": "March 2019 - June 2019",
+		"running": false,
+		"link": "https://play.google.com/store/apps/details?id=com.omak.ijariit",
 		"role": "Android Developer",
-		"description": "This app  simple solution for managing your calls, leads and sales at one place. Never Lose a Lead Again."
+		"description": " This app is basically for research papar publication.  IJARIIT is a international journal so here we publish paper into IJARIIT journal"
+	},
+	{
+		"title": "Xlow",
+		"skills": "Android ,Retrofit Api",
+		"platform": "",
+		"duration": "January 2019",
+		"running": true,
+		"link": "",
+		"role": "Android Developer",
+		"description": "This app is a social plate-like Instagram but here we are also selling our products on there."
 	},
 	{
 		"title": "Online Store",
