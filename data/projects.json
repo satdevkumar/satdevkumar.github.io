@@ -1,22 +1,52 @@
 [
 	{
-		"title" : "Online Store",
-		"skills" : "Core Java and Advanced Java (Framework)",
-		"platform" : "",
-		"duration" : "January 2018 - June 2018",
-		"running" : false,
-		"link" : "",
-		"role" : "Front End and Back End Developer",
-		"description" : "A online store to purchache household things."
+		"title": "IJARIIT JOURNAL",
+		"skills": "Android (java),Retrofit,Firebase",
+		"platform": "Android",
+		"duration": "March 2019 - June 2019",
+		"running": true,
+		"link": "https://play.google.com/store/apps/details?id=com.omak.ijariit",
+		"role": "Android Developer",
+		"description": " This app is basically for research papar publication.  IJARIIT is a international journal so here we publish paper into IJARIIT journal"
 	},
 	{
-		"title" : "Hotel Management",
-		"skills" : "Core Java",
-		"platform" : "",
-		"duration" : "June 2016 - July 2017",
-		"running" : false,
-		"link" : "",
-		"role" : "Front End and Back End Developer",
-		"description" : "A desktop application for hotel reception."
+		"title": "Research Experts ",
+		"skills": "Android (java),Retrofit,Realm,Firebase",
+		"platform": "Android",
+		"duration": "June 2019 -October 2019",
+		"running": true,
+		"link": "https://play.google.com/store/apps/details?id=com.omak.researchexperts",
+		"role": "Android Developer",
+		"description": "This app is basically for researchers .we are providing plagiarism check and plagiarism removal services."
+	},
+	{
+		"title": "GrowYu",
+		"skills": "Android (java),Retrofit,Realm,Firebase,Fabric",
+		"platform": "Android",
+		"duration": "October 2019 - February 2020",
+		"running": true,
+		"link": "https://www.growyu.com/app/growyucrm-app.apk",
+		"role": "Android Developer",
+		"description": "This app  simple solution for managing your calls, leads and sales at one place. Never Lose a Lead Again."
+	},
+	{
+		"title": "Online Store",
+		"skills": "Core Java and Advanced Java (Framework)",
+		"platform": "",
+		"duration": "January 2018 - June 2018",
+		"running": false,
+		"link": "",
+		"role": "Front End and Back End Developer",
+		"description": "A online store to purchache household things."
+	},
+	{
+		"title": "Hotel Management",
+		"skills": "Core Java",
+		"platform": "",
+		"duration": "June 2016 - July 2017",
+		"running": false,
+		"link": "",
+		"role": "Front End and Back End Developer",
+		"description": "A desktop application for hotel reception."
 	}
 ]
