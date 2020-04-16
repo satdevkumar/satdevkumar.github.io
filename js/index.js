@@ -214,6 +214,7 @@ function setInfo() {
     languages();
     majorSkills();
     hobbies();
+    profileSummaryInfo();
     workInfo();
     projects();
     educationInfo();
