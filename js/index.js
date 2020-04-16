@@ -90,6 +90,32 @@ function workInfo() {
             }
         }
     });
+} function profileSummaryInfo() {
+    $.ajax({
+        url: "data/work.json", success: function (result) {
+            var info = result;
+            $(".work-placeholder").remove();
+            for (var i = 0; i < info.length; i++) {
+                var duration = info[i].duration;
+                var hrColor = "lightgrey";
+                if (info[i].current == true) {
+                    duration = info[i].duration + ' - <span class="w3-tag w3-teal w3-round">Current</span>';
+                }
+                if (i == info.length - 1) {
+                    hrColor = "white";
+                }
+                var value = '<div class="w3-container">' +
+                    '<h5><b>' + info[i].role + '</b></h5>' +
+                    '<h6 class="w3-text-teal"><i class="fa fa-code fa-fw w3-margin-right"></i>' + info[i].skills + '</h6>' +
+                    '<h6 class="w3-text-teal"><i class="fa fa-building fa-fw w3-margin-right"></i>' + info[i].company + '</h6>' +
+                    '<h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>' + duration + '</h6>' +
+                    '<p><i class="fa fa-quote-left fa-fw w3-text-teal w3-margin-right"></i>' + info[i].description + '</p>' +
+                    '<hr style="border-color:' + hrColor + '"/>' +
+                    '</div>';
+                $("#work-div").append(value);
+            }
+        }
+    });
 }
 
 function projects() {
