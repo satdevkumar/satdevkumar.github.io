@@ -1,2 +1,2 @@
-# cv
-CV site of Saimon Thada Magar.
+# Satdev Kumar Sokhal
+CV site of Satdev kumar sokhal.
